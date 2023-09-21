@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">PermisosAppMovil</string>
+    <string name="tomarFoto">Tomar Foto</string>
+    <string name="grabarAudio">Grabar Audio</string>
+    <string name="solicitarHuella">Huella Dactilar</string>
+
+</resources>
